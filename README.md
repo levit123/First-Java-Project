@@ -2,13 +2,13 @@ MY FIRST JAVA PROJECT
 ======================================================
 
 
-TOOLS/LIBRARIES USED
+Tools/Libraries Used
 ======================================================
 IDE: IntelliJ IDEA 2022
 SDK: Oracle OpenJDK version 11.0.15
 
 
-ADDITIONAL NOTES
+Additional Notes
 ======================================================
 1: Made following the Pluralsight course "Getting
 started with Programming in Java Pluralsight"
