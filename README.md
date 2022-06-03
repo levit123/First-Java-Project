@@ -9,7 +9,7 @@ SDK: Oracle OpenJDK version 11.0.15
 
 ## Additional Notes
 1: Made following the Pluralsight course "Getting
-started with Programming in Java Pluralsight"
+started with Programming in Java"
 
 2: In addition to running the project normally by
 clicking the Launch button in IntelliJ, you can also
